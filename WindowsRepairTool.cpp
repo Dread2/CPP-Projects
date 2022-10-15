@@ -1,3 +1,18 @@
+Windows System Repair Tool, a windows terminal utility to run SFC/DISM/CHKDSK sequentially with options Y/N.
+Copyright (C) <2022>  <Gabe Finamore and Julian Tong>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 #include <stdlib.h> // Important for control of processes, memory, conversion, etc
 #include <iostream> // Standard input and outpout
@@ -27,7 +42,7 @@ int main()
     std::cout << "\n";
     std::cout << "\n";
     // Terms and Conditions
-    std::cout << "Copyright 2021 - 2022 Windows System Repair Tool" << std::endl;
+    std::cout << "Copyright 2022 - Gabe Finamore and Julian Tong" << std::endl;
     std::cout << "\n";
     std::cout << "Redistribution and use in source and binary forms, with or without" << std::endl;
     std::cout << "modification, are permitted provided that the following conditions are met" << std::endl;
