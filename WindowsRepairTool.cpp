@@ -1,5 +1,5 @@
 Windows System Repair Tool, a windows terminal utility to run SFC/DISM/CHKDSK sequentially with options Y/N.
-Copyright (C) <2022>  <Gabe Finamore and Julian Tong>
+Copyright (C) <2022>  <Julian Tong>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
