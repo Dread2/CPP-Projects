@@ -36,7 +36,7 @@ int main()
     std::cout << "This is an automated program for running SFC, DISM, and ChkDsk" << std::endl;
     std::cout << "tools with a single file. If you encounter any issues, email me" << std::endl;
     std::cout << "with the following format:" << std::endl;
-    std::cout << "Email: gfinamore72@gmail.com" << std::endl;
+    std::cout << "Email: julianeatong@gmail.com" << std::endl;
     std::cout << "Subject: Windows OS Repair Report" << std::endl;
     Sleep(5000);
     std::cout << "\n";
